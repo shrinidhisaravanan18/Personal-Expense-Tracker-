@@ -18,5 +18,5 @@ The interests shown are based on the information provided: Software Development,
 
 ## Publish with GitHub Pages
 
-Place these files in the root of a public GitHub repository. In the repository, open **Settings → Pages**, choose **Deploy from a branch**, select `main` and `/ (root)`, and save. GitHub Pages will then publish the site at `https://shrinidhisaravanan18.github.io/shrinidhi-portfolio/`.
+Place these files in the root of a public GitHub repository. In the repository, open **Settings → Pages**, choose **Deploy from a branch**, select `main` and `/ (root)`, and save. In the repository you linked, GitHub Pages should publish the site at `https://shrinidhisaravanan18.github.io/Personal-Expense-Tracker-/`. If you rename the repository, the Pages URL will use the new repository name.
 
